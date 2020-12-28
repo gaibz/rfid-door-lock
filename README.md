@@ -30,7 +30,7 @@ Also this project require external connection to MQTT server, but feel free to m
 
 # Schematic : 
 
-<img src="./schematic.png" alt=""Schematic Diagram"/>
+![Schematic](schematic.png?raw=true "Schematic Diagram")
 
 
 # Watch on Youtube : 
